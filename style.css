@@ -76,7 +76,7 @@ p{
   Margin-left: 100px
 }
 
-.sidebar:hover{
+.sidebar{
   font-family: Arial;
   display: inline-block;
   margin-top: 5px;
