@@ -88,6 +88,7 @@ p{
 .sidebar:hover{
   transition: transform .5s ease;
   transform: scale(1.2);
+  color: Blue;
 }
 
 .autism {
