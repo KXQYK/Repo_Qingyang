@@ -85,3 +85,13 @@ p{
   transition: transform .5s ease;
   transform: scale(1.2);
 }
+
+.autism2 {
+  margin-bottom: 30px;
+  position: absolute;
+}
+.autism2:hover { 
+  filter: none;
+  transition: transform .5s ease;
+  transform: scale(1.2);
+}
