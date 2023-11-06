@@ -76,6 +76,12 @@ p{
   Margin-left: 100px
 }
 
+
+.sidebar:hover{
+  transition: transform .5s ease;
+  transform: scale(1.2);
+}
+
 .autism {
   margin-bottom: 30px;
   margin-top:40px;
